@@ -1,10 +1,6 @@
 # fpl-optimizer
 
-Got it ✅ — here’s the cleaned-up content from your PDF, with icons and formatting removed, ready to paste directly into a **GitHub README.md** file.
-
 ---
-
-# Fantasy Premier League Optimizer — Documentation
 
 ## Overview
 
