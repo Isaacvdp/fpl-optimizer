@@ -1,0 +1,16 @@
+position,name,web_name,team,price,ep_next,form,ppg,ict,bps,avail,fixture,home_next,score
+GK,David Raya Martín,Raya,ARS,5.5,5.0,10.0,10.0,4.9,38,1.0,0.987,1,3.4
+GK,Robert Lynch Sánchez,Sánchez,CHE,5.0,3.6,8.0,8.0,2.4,31,1.0,0.912,0,2.5741
+DEF,Riccardo Calafiori,Calafiori,ARS,5.5,4.3,13.0,13.0,7.3,33,1.0,0.987,1,2.9192
+DEF,William Saliba,Saliba,ARS,6.0,5.0,9.0,9.0,3.2,25,1.0,0.987,1,2.7853
+DEF,Daniel Ballard,Ballard,SUN,4.6,2.1,17.0,17.0,13.4,53,1.0,0.912,0,2.5845
+DEF,Rayan Aït-Nouri,Aït-Nouri,MCI,6.0,4.5,9.0,9.0,4.7,33,1.0,0.924,1,2.5357
+DEF,Marc Cucurella Saseta,Cucurella,CHE,6.0,4.5,8.0,8.0,4.0,34,1.0,0.912,0,2.4424
+MID,Antoine Semenyo,Semenyo,BOU,7.1,2.4,15.0,15.0,10.0,42,1.0,0.987,1,2.8699
+MID,Tijjani Reijnders,Reijnders,MCI,5.6,2.5,10.0,10.0,10.2,31,1.0,0.924,1,2.3952
+MID,Marcus Tavernier,Tavernier,BOU,5.5,2.0,4.0,4.0,7.2,20,1.0,0.987,1,2.0688
+MID,Matt O'Riley,O'Riley,BHA,5.5,2.0,10.0,10.0,11.5,24,1.0,0.854,0,2.0646
+MID,Cody Gakpo,Gakpo,LIV,7.5,3.0,7.0,7.0,13.4,34,1.0,0.795,0,2.0133
+FWD,Erling Haaland,Haaland,MCI,14.0,4.5,13.0,13.0,12.9,49,1.0,0.924,1,3.1331
+FWD,Chris Wood,Wood,NFO,7.6,2.4,13.0,13.0,12.5,58,1.0,0.854,0,2.4613
+FWD,Hugo Ekitiké,Ekitiké,LIV,8.6,3.2,11.0,11.0,11.4,37,1.0,0.795,0,2.265
